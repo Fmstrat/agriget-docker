@@ -4,13 +4,13 @@ Agriget for Docker
 Agriget is a fork of Tiny Tiny RSS (TT-RSS) that focuses on a more modern "Feedly styled" UI while retaining all compatability and updates with and from the TT-RSS backend and mobile applications. While the original features of Agriget were started as a PR to TT-RSS, due to development differences Agriget was instead created to be foster an open environment for developers to contribute.
 
 <div align="center">
-    <img src="screenshots/1.png" width="250"> 
-    <img src="screenshots/2.png" width="250"> 
-    <img src="screenshots/3.png" width="250">
+    <img src="https://raw.githubusercontent.com/Fmstrat/agriget/master/screenshots/1.png" width="250"> 
+    <img src="https://raw.githubusercontent.com/Fmstrat/agriget/master/screenshots/2.png" width="250"> 
+    <img src="https://raw.githubusercontent.com/Fmstrat/agriget/master/screenshots/3.png" width="250">
     <br>
-    <img src="screenshots/4.png" width="250"> 
-    <img src="screenshots/5.png" width="250"> 
-    <img src="screenshots/6.png" width="250">
+    <img src="https://raw.githubusercontent.com/Fmstrat/agriget/master/screenshots/4.png" width="250"> 
+    <img src="https://raw.githubusercontent.com/Fmstrat/agriget/master/screenshots/5.png" width="250"> 
+    <img src="https://raw.githubusercontent.com/Fmstrat/agriget/master/screenshots/6.png" width="250">
     <br>
 </div>
 
